@@ -4,8 +4,22 @@ Console.WriteLine("Hello, World!");
 
 
 // Agenda
-// .net - List<T>, LinkedList<T>, ObservableCollection<T>, ImmutableList<T>
-// .net Konferenz - Erfahrungsbericht von Riccardo und Micha
+// 10m .net - List<T>, LinkedList<T>, ObservableCollection<T>, ImmutableList<T>
+// Erfahrungsbericht der .NET Developer Days 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
